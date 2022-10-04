@@ -3,3 +3,9 @@ main {
     padding: 5px;
     background-color: lightgray;
   }
+
+  img {
+    width: 100%;
+    margin: auto;
+    display: block;
+  }
